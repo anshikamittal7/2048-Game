@@ -1,4 +1,4 @@
-document.body.style.backgroundImage = "url('imgbkg.webp')";
+
 
 let board;
 let score = 0;
