@@ -11,7 +11,7 @@ body {
   align-items: center;
 }
 #part1 {
-  width: 40vw;
+  width: 80vmin;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
